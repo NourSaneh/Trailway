@@ -1,4 +1,4 @@
-import InfoIcon from "../assets/info.png";
+import InfoIcon from "../assets/icon1.png";
 
 export default function WhyJoin() {
   return (
