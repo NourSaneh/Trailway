@@ -81,7 +81,7 @@ export default function WhyJoin() {
               <h3 className="font-semibold text-lg font-['Lexend Zetta']"> Eco-Friendly Adventures</h3>
               <p className="text-sm mt-1">
   We promote responsible hiking practices that protect nature, support local communities, and ensure our trails stay beautiful for generations to come.
-  test2
+  test3
               </p>
             </div>
           </div>
